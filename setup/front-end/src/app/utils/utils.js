@@ -4,7 +4,7 @@ export function parseUrl() {
     let delimiter = "&";
     let result = {};
 
-    let parts = query.split(delimiter);
+    var parts = query.split(delimiter);
     return parts.map((items) => {
       return items.split("=")}).reduce((result, kv) => {
     result[kv[0]] = kv[1];

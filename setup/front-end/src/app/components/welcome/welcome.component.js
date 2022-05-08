@@ -16,8 +16,8 @@ import template from  "./welcome.component.html";
                     event.stopPropagation();
                     form.classList.add('was-validated');
                 } else {
-                    let name = event.srcElement.querySelector('#nickname').value;
-                    let size = parseInt(event.srcElement.querySelector('#size').value);
+                    var name = event.srcElement.querySelector('#nickname').value;
+                    var size = parseInt(event.srcElement.querySelector('#size').value);
     
                     _startGame(name, size);
                 }

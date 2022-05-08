@@ -4119,7 +4119,7 @@
   .nav-pills .nav-link.active,
   .nav-pills .show > .nav-link {
     color: #fff;
-    background-color: #007bff;
+    background-color: #FC427B;
   }
   
   .nav-fill .nav-item {
@@ -6508,53 +6508,53 @@
   }
   
   .bg-primary {
-    background-color: #007bff !important;
+    background-color: #FC427B !important;
   }
   
   a.bg-primary:hover, a.bg-primary:focus,
   button.bg-primary:hover,
   button.bg-primary:focus {
-    background-color: #0062cc !important;
+    background-color: #FC427B !important;
   }
   
   .bg-secondary {
-    background-color: #6c757d !important;
+    background-color: #FC427B !important;
   }
   
   a.bg-secondary:hover, a.bg-secondary:focus,
   button.bg-secondary:hover,
   button.bg-secondary:focus {
-    background-color: #545b62 !important;
+    background-color: #FC427B!important;
   }
   
   .bg-success {
-    background-color: #28a745 !important;
+    background-color: #FC427B !important;
   }
   
   a.bg-success:hover, a.bg-success:focus,
   button.bg-success:hover,
   button.bg-success:focus {
-    background-color: #1e7e34 !important;
+    background-color: #FC427B!important;
   }
   
   .bg-info {
-    background-color: #17a2b8 !important;
+    background-color: #FC427B!important;
   }
   
   a.bg-info:hover, a.bg-info:focus,
   button.bg-info:hover,
   button.bg-info:focus {
-    background-color: #117a8b !important;
+    background-color: #FC427B !important;
   }
   
   .bg-warning {
-    background-color: #ffc107 !important;
+    background-color: #FC427B !important;
   }
   
   a.bg-warning:hover, a.bg-warning:focus,
   button.bg-warning:hover,
   button.bg-warning:focus {
-    background-color: #d39e00 !important;
+    background-color: #FC427B !important;
   }
   
   .bg-danger {
@@ -6564,11 +6564,11 @@
   a.bg-danger:hover, a.bg-danger:focus,
   button.bg-danger:hover,
   button.bg-danger:focus {
-    background-color: #bd2130 !important;
+    background-color: #FC427B !important;
   }
   
   .bg-light {
-    background-color: #f8f9fa !important;
+    background-color: #FC427B !important;
   }
   
   a.bg-light:hover, a.bg-light:focus,
